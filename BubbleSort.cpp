@@ -3,6 +3,11 @@
 #include <ctime>
 #include <cassert>
 using namespace std;
+/*
+ * Benjamin Raiford
+ * BubbleSort
+ * October 3, 2019
+ */
 
 // MergeSort function declarations
 void mergeSort(vector<int>& a, vector<int>& tmp, int left, int right);
